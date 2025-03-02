@@ -48,6 +48,25 @@ const Apropos = () => {
                              transition-transform duration-300 hover:scale-105 w-10/12"></div>
                         </div>
                 </div>
+                <div className='flex items-center'>
+                    <label htmlFor="htmlandcss" className='w-2/12'> C++ </label>
+                        <div className='grow bg-gray-800 rounded-full h-2.5'>
+                            <div className="bg-gradient-to-r from-pink-800 to-green-600 h-2.5 rounded-full transform
+                             transition-transform duration-300 hover:scale-105 w-9/12"></div>
+                        </div>
+                </div>
+                <div className='flex items-center'>
+                    <label htmlFor="htmlandcss" className='w-2/12'> Python</label>
+                        <div className='grow bg-gray-800 rounded-full h-2.5'>
+                            <div className="bg-gradient-to-r from-pink-800 to-green-600 h-2.5 rounded-full transform
+                             transition-transform duration-300 hover:scale-105 w-7/12"></div>
+                        </div>
+                </div>
+            </div>
+            <div className="mt-12 flex justify-center text-center">
+              <div>
+                <h3></h3>
+              </div>
             </div>
             </div>
         </div>

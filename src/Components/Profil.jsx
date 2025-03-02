@@ -7,7 +7,7 @@ const Profil = () => {
       <img src={Photo} alt="" className='mx-auto mb-8 w-48 h-48 rounded-full object-cover transform transition-transform duration-300 hover:scale-105' />
       <h1 className='text-4xl font-bold py-8'>
         Je suis {""}
-        <span className='text-transparent bg-clip-text bg-gradient-to-r from-fuchsia-600 to-blue-500 '>JAONINA Sissie Thephanie </span>
+        <span className='text-transparent bg-clip-text bg-gradient-to-r from-fuchsia-600 to-green-600 '>JAONINA Sissie Thephanie </span>
         Developper Full Stack 
         <p className='mt-4 text-lg text-gray-300 px-4 md:px-32 '>
           Je me specialise dans la creation d'application Web modernes et reactives.
