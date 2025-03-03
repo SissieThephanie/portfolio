@@ -4,6 +4,7 @@ import Profil from './Components/Profil'
 import Apropos from './Components/Apropos'
 import Service from './Components/Service'
 import Projet from './Components/Projet'
+import Contact from './Components/Contact'
 
 function App() {
 
@@ -14,6 +15,7 @@ function App() {
     <Apropos/>
     <Service/>
     <Projet/>
+    <Contact/>
     </>
   )
 }
