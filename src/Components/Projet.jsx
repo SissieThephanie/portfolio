@@ -3,6 +3,7 @@ import Banks from '../assets/banks.png'
 import Chambre from '../assets/chambre.png'
 import Diamadio from '../assets/diamadio.png'
 import Portail from '../assets/portail.png'
+import Securite from '../assets/image.jpg'
 
 const projets = [
     {
@@ -28,6 +29,12 @@ const projets = [
         nom: "DIAMADIO",
         description: "Une application de gestion des ressources et des activités au sein d'une collectivité locale, facilitant l'organisation, la planification et le suivi des projets communautaires.",
         image: Diamadio
+    },
+    {
+        id: 5,
+        nom: "Securité des applications web",
+        description: "Un projet de recherche et de développement axé sur la sécurité des applications web, visant à identifier et corriger les vulnérabilités courantes.",
+        image: Securite
     }
 ];
 
