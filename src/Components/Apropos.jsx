@@ -35,7 +35,7 @@ const Apropos = () => {
                         </div>
                 </div>
                 <div className='flex items-center'>
-                    <label htmlFor="htmlandcss" className='w-2/12'> Laravel</label>
+                    <label htmlFor="htmlandcss" className='w-2/12'> Flutter</label>
                         <div className='grow bg-gray-800 rounded-full h-2.5'>
                             <div className="bg-gradient-to-r from-pink-800 to-green-600 h-2.5 rounded-full transform
                              transition-transform duration-300 hover:scale-105 w-7/12"></div>
@@ -56,7 +56,7 @@ const Apropos = () => {
                         </div>
                 </div>
                 <div className='flex items-center'>
-                    <label htmlFor="htmlandcss" className='w-2/12'> Python</label>
+                    <label htmlFor="htmlandcss" className='w-2/12'> Design</label>
                         <div className='grow bg-gray-800 rounded-full h-2.5'>
                             <div className="bg-gradient-to-r from-pink-800 to-green-600 h-2.5 rounded-full transform
                              transition-transform duration-300 hover:scale-105 w-7/12"></div>

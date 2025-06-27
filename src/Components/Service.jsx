@@ -23,13 +23,13 @@ const services = [
     },
     {
         id:5,
-        title:"Rédaction de Contenu",
-        description :"Production d'articles, blogs et textes optimisés pour le référencement (SEO)."
+        title:"Developpement Mobile",
+        description: "Création d'applications mobiles multiplateformes performantes et esthétiques avec Flutter."
     },
     {
         id:6,
-        title:"Marketing Digital",
-        description :"Stratégies de communication et campagnes publicitaires pour améliorer la visibilité en ligne."
+        title: "Design Graphique",
+        description: "Conception visuelle d’identités de marque, interfaces et supports de communication attractifs."
     }
 ]
 
@@ -50,7 +50,6 @@ const Service = () => {
                             {service.title}
                         </h3>
                         <p className="mt-2 text-gray-300">{service.description}</p>
-                        <a href="#" className="mt-4 inline-block text-fuchsia-600 hover:text-green-600">Voir plus</a>
                     </div>
                 ))}
             </div>      
